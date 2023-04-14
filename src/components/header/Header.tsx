@@ -7,7 +7,7 @@ export default function Header() {
     <header>
         <img src={pfp} className="header--pfp" alt="pfp"/>
         <div className="header--name-n-title">
-            <h3 className="header--name">John Doe</h3>
+            <h3 className="header--name">Geroge Chmel</h3>
             <p className="header--job">Software Engineer</p>
         </div>
 
