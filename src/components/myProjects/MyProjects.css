@@ -4,6 +4,8 @@
     margin-right: auto;
     margin-bottom: 20px;
     padding: 0;
-    color: white;
+    /* turn to hex color r:31 g:34 b:43 */
+    color: #1f222b;
     align-self: start;
+    margin-top: 160px;
 }

@@ -1,6 +1,6 @@
 header {
     display: flex;
-    background-color: #000000;
+    background-color: #8e9295;
     height: 100px;
     align-items: center;
     justify-content: start;
@@ -8,6 +8,12 @@ header {
     color: white;
     padding: 20px 20px 20px 30px;
     gap: 30px;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
 }
 
 .header--pfp {

@@ -3,7 +3,7 @@ import React from 'react';
 import './Project.css';
 
 interface ProjectProps {
-    props: { gif: string, name: string, link: string, id: number }
+    props: { img: string, name: string, link: string, id: number }
 }
 
 export default function Project({props}: ProjectProps) {
