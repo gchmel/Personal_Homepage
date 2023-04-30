@@ -9,7 +9,6 @@ interface ProjectProps {
 export default function Project({props}: ProjectProps) {
 
     const text: string = props.toString()
-    console.log(props)
 
     return (
         <div>
