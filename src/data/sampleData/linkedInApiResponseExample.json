@@ -1,0 +1,37 @@
+{
+  "firstName":{
+    "localized":{
+      "en_US":"George"
+    },
+    "preferredLocale":{
+      "country":"US",
+      "language":"en"
+    }
+  },
+  "localizedFirstName": "George",
+  "headline":{
+    "localized":{
+      "en_US":"Software Engineer and Business and Entrepreneurship Student at RU (IDC)"
+    },
+    "preferredLocale":{
+      "country":"US",
+      "language":"en"
+    }
+  },
+  "localizedHeadline": "Software Engineer and Business and Entrepreneurship Student at RU (IDC)",
+  "vanityName": "george-chmel",
+  "id":"703575197",
+  "lastName":{
+    "localized":{
+      "en_US":"Chmel"
+    },
+    "preferredLocale":{
+      "country":"US",
+      "language":"en"
+    }
+  },
+  "localizedLastName": "Chmel",
+  "profilePicture": {
+    "displayImage": "urn:li:digitalmediaAsset:C4D00AAAAbBCDEFGhiJ"
+  }
+}
